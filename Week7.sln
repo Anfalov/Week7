@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{000FE2EE-AA8F-4342-AC71-4C2AF1EB464E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{D3031A7A-E9B0-4482-B009-D49C018DA49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapEditor", "BitmapEditor\BitmapEditor.csproj", "{154ED681-7437-44D0-9FA4-5DF2B7D19121}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{000FE2EE-AA8F-4342-AC71-4C2AF1EB464E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{000FE2EE-AA8F-4342-AC71-4C2AF1EB464E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{000FE2EE-AA8F-4342-AC71-4C2AF1EB464E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3031A7A-E9B0-4482-B009-D49C018DA49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3031A7A-E9B0-4482-B009-D49C018DA49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3031A7A-E9B0-4482-B009-D49C018DA49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3031A7A-E9B0-4482-B009-D49C018DA49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154ED681-7437-44D0-9FA4-5DF2B7D19121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154ED681-7437-44D0-9FA4-5DF2B7D19121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154ED681-7437-44D0-9FA4-5DF2B7D19121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154ED681-7437-44D0-9FA4-5DF2B7D19121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
